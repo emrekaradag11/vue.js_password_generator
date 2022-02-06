@@ -1,4 +1,4 @@
-# password_generator2
+# password_generator
 
 ## Project setup
 ```
